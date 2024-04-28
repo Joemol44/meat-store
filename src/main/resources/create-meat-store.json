@@ -1,0 +1,21 @@
+{
+  "meatStoreLocation": "Los Angeles",
+  "meatStoreAddress": "4444 North Meat Lane",
+  "meatStoreCity": "Los Angeles",
+  "meatStoreState": "California",
+  "meatStoreZip" : "12345",
+  }
+{
+  "meatStoreLocation": "New York",
+  "meatStoreAddress": "5555 North Meat Lane",
+  "meatStoreCity": "New York",
+  "meatStoreState": "New York",
+  "meatStoreZip" : "67890",
+  }
+{
+  "meatStoreLocation": "Miami",
+  "meatStoreAddress": "777 North Meat Lane",
+  "meatStoreCity": "Miami",
+  "meatStoreState": "Florida",
+  "meatStoreZip" : "54321",
+  }

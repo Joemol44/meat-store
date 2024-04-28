@@ -1,0 +1,34 @@
+{
+  "meatType": "beef",
+  "meatGrade": "Choice"
+}
+{
+  "meatId": "Rib Eye Steak",
+  "meatType": "beef",
+  "meatGrade": "Prime"
+}
+{
+  "meatId": "Chops",
+  "meatStoreId": "2",
+  "meatType": "pork",
+  "meatGrade": "Choice"
+}
+{
+  "meatId": "Baby Back Ribs",
+  "meatStoreId": "2",
+  "meatType": "pork",
+  "meatGrade": "Prime"
+}
+
+{
+  "meatId": "Skirt Steak",
+  "meatStoreId": "3",
+  "meatType": "beef",
+  "meatGrade": "Choice"
+}
+{
+  "meatId": "Chuck Steak",
+  "meatStoreId": "3",
+  "meatType": "beef",
+  "meatGrade": "Prime"
+}

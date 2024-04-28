@@ -1,0 +1,11 @@
+spring: 
+  datasource:
+    username: meat_store
+    password: meat_store
+    url: jdbc:mysql://localhost:3306/meat_store
+    
+  jpa:
+    hibernate:
+      ddl:auto: create
+    show-sql: true
+  
